@@ -56,7 +56,14 @@ Dẫu không làm việc kề bên
 Tình đồng nghiệp vẫn ấm bền như xưa
 Chúc em vững bước sớm trưa
 Thành công rực rỡ, nụ cười luôn xinh ❤️❤️❤️
-_A Mỹ_
+_Anh Mỹ_
+
+Chị Nhung ơi, em thật sự rất vui và trân trọng quãng thời gian được làm việc và đồng hành cùng chị, được cùng chị chia sẻ và lắng nghe những câu chuyện của hai chị em. 
+Em cũng rất cảm ơn chị vì đã luôn truyền động lực để lấy được một người chồng tuyệt vời như bây giờ. 
+Nghĩ đến việc phải chia tay chị, em thật sự rất buồn, nhưng em hiểu rằng chị đang bước sang một chặng đường mới tốt đẹp hơn. 
+Chúc chị luôn may mắn, thành công, và dù có lúc khó khăn thì vẫn luôn mạnh mẽ, lạc quan và giữ nụ cười rạng rỡ như bây giờ. 
+Và chị đừng quên rằng phía sau chị luôn có chúng em – những người đồng nghiệp, người em – luôn sẵn sàng ở bên và giúp đỡ chị khi cần.
+_Em Minh_
 `,
   TYPE_SPEED_MS: 24,
   MUSIC_SRC: "./assets/1.mp3",
