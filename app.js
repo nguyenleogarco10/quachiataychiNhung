@@ -79,7 +79,7 @@ Mặc dù chia tay nhau, nhưng Nhung hãy luôn yên tâm rằng bọn chị lu
 
 _Chị Yến 💛 Nhung_
 `,
-  TYPE_SPEED_MS: 24,
+  TYPE_SPEED_MS: 40,
   MUSIC_SRC: "./assets/1.mp3",
   MUSIC_VOLUME: 0.55,
 };
