@@ -18,10 +18,9 @@ _Chị Huyền_
 
 Dear chị Nhung,
   Em chúc chị luôn mạnh khỏe, gặp nhiều may mắn.
-  Và quan trọng nhất gặp một người phụ hợp và luôn chiều chị ạ.
-  Số của chị mai sau chắc chắn sẽ sướng đó.
+  Và quan trọng nhất gặp một người phụ hợp và luôn chiều chị ạ. ❤️
+  Số của chị mai sau chắc chắn sẽ sướng đó. ❤️
   _Em Nguyên!_
-❤️
 
 Ui Nhung ơi, 
 Nhung nghỉ M10 rồi ai chiều cái nết mất dạy của c đây. 
@@ -42,6 +41,22 @@ _Chị Nghĩa_
 Thời gian làm việc cùng nhau tuy không quá dài, nhưng với em đó là một khoảng thời gian rất đáng quý. 
 Chúc chị Nhung thật nhiều bình an và may mắn trên chặng đường mới /-heart
 _Em Thảo_
+
+Nhung ơi bốn năm qua rồi
+Cùng nhau công việc, tiếng cười mỗi ngày
+Sáng chiều chung một nơi đây
+Bao lần áp lực vẫn đầy niềm vui
+
+Giờ em rẽ lối đường đời
+Đồng nghiệp ở lại bồi hồi tiễn đưa
+Mai này mỗi đứa mỗi mùa
+Mong em phía trước nắng vừa bước chân
+
+Dẫu không làm việc kề bên
+Tình đồng nghiệp vẫn ấm bền như xưa
+Chúc em vững bước sớm trưa
+Thành công rực rỡ, nụ cười luôn xinh ❤️❤️❤️
+_A Mỹ_
 `,
   TYPE_SPEED_MS: 24,
   MUSIC_SRC: "./assets/1.mp3",
