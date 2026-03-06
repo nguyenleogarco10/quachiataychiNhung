@@ -1,5 +1,5 @@
 const CONFIG = {
-  PASSWORD: "0803",
+  PASSWORD: "1998",
   // 8 ảnh: đặt đúng tên 1.png..8.png trong /assets
   IMAGES: [
     "./assets/1.png",
