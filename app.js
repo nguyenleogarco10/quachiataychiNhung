@@ -35,6 +35,9 @@ Ngoài lúc phê rượu nói hơi nhiều và cười ngờ ngệch thì mọi 
 Chúc cho Nhung trên con đường mới thành công hơn, rực rỡ hơn nhé. Còn nợ c những chuyến đi Shangrila, đi đến nơi có gió,,,,,,,,,,,,,,,,, thì cố mà trả nợ đi nha. 
 Love uuuuuuuuuuuuu
 _Ami_
+
+Dù xa nhau nhưng những kỷ niệm đẹp sẽ luôn ở lại. Chúc em mọi điều suôn sẻ!
+_Chị Nghĩa_
 `,
   TYPE_SPEED_MS: 24,
   MUSIC_SRC: "./assets/1.mp3",
