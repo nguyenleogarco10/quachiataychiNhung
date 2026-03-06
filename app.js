@@ -65,13 +65,18 @@ Chúc chị luôn may mắn, thành công, và dù có lúc khó khăn thì vẫ
 Và chị đừng quên rằng phía sau chị luôn có chúng em – những người đồng nghiệp, người em – luôn sẵn sàng ở bên và giúp đỡ chị khi cần.
 _Em Minh_
 
+Chắc bố mẹ chị Nhung sẽ là người vui nhất với quyết định này :))) 
+Em chúc chị Nhung luôn giữ được năng lượng tích cực vượt trội vốn có khi tái hòa nhập thị trường 98  🙌 🙌  
+Khi nào xuống HN chơi hãy ghé nhà e ngủ c nhá 💛 🌺
+_Em Quyên_
+
 Gửi Nhung thân mến,
 
 Chị đã nghĩ và tự nhủ rất nhiều lần, là Trái đất có hơn 8 tỷ người nhưng chúng ta lại được gặp nhau, trở thành đồng nghiệp và bạn bè của nhau, được đồng hành cùng nhau lúc vui, lúc buồn, lúc cãi vã, căng thẳng... cùng vượt qua khó khăn, thử thách mỗi ngày, ấy thực sự là may mắn của chị. 
 Mặc dù chia tay nhau, nhưng Nhung hãy luôn yên tâm rằng bọn chị luôn tin tưởng và ủng hộ mọi quyết định của Nhung, you'r happy i'm happy too. 
 Hẹn sớm gặp lại!
 
-Chị Yến 💛 Nhung
+_Chị Yến 💛 Nhung_
 `,
   TYPE_SPEED_MS: 24,
   MUSIC_SRC: "./assets/1.mp3",
