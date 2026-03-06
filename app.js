@@ -16,7 +16,22 @@ const CONFIG = {
   Và quan trọng nhất gặp một người phụ hợp và luôn chiều chị ạ.
   Số của chị mai sau sẽ sướng đó.
   Em Nguyên!
-❤️`,
+❤️
+
+Ui Nhung ơi, 
+Nhung nghỉ M10 rồi ai chiều cái nết mất dạy của c đây. 
+Nhiều lúc không yêu Nhung lắm đâu, nhưng đa số là yêu ❤️
+Chúc Nhung sang chỗ mới, lấy được chồng và phát tài nhớ. Nào c cưới nhớ về nhé. ❤️
+_Bờ Ri_
+
+From c gái Ami xinh đẹp to Jenny ngoan hiền: Xin lũi Nhung hồi đầu c đánh giá Nhung thảo mai nha.
+Qua gần 4 năm làm việc cũng như đàn đúm cùng nhau, Nhung là 1 người em gái chu đáo, nhiệt tình chăm chỉ và có những sáng kiến vĩ đại bàn giao lại cho c. 
+Ngoài lúc phê rượu nói hơi nhiều và cười ngờ ngệch thì mọi thứ perfect nha. 
+Chúc cho Nhung trên con đường mới thành công hơn, rực rỡ hơn nhé. Còn nợ c những chuyến đi Shangrila, đi đến nơi có gió,,,,,,,,,,,,,,,,, thì cố mà trả nợ đi nha. 
+Love uuuuuuuuuuuuu
+_Ami_
+
+`,
   TYPE_SPEED_MS: 24,
   MUSIC_SRC: "./assets/1.mp3",
   MUSIC_VOLUME: 0.55,
