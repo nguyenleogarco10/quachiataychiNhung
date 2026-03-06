@@ -11,11 +11,16 @@ const CONFIG = {
     "./assets/7.png",
     "./assets/8.png",
   ],
-  LETTER_TEXT: `Dear chị Nhung,
+  LETTER_TEXT: `Cảm ơn Nhung đã mang đến cho nhóm mình rất nhiều niềm vui và năng lượng tích cực. 
+Chúc em luôn tỏa sáng, giữ mãi sự dễ thương, nhiệt huyết và nụ cười của mình nhé! 
+Chúc em vạn sự bình an, hạnh phúc đong đầy ❤️❤️❤️
+_Chị Huyền_
+
+Dear chị Nhung,
   Em chúc chị luôn mạnh khỏe, gặp nhiều may mắn.
   Và quan trọng nhất gặp một người phụ hợp và luôn chiều chị ạ.
-  Số của chị mai sau sẽ sướng đó.
-  Em Nguyên!
+  Số của chị mai sau chắc chắn sẽ sướng đó.
+  _Em Nguyên!_
 ❤️
 
 Ui Nhung ơi, 
@@ -30,7 +35,6 @@ Ngoài lúc phê rượu nói hơi nhiều và cười ngờ ngệch thì mọi 
 Chúc cho Nhung trên con đường mới thành công hơn, rực rỡ hơn nhé. Còn nợ c những chuyến đi Shangrila, đi đến nơi có gió,,,,,,,,,,,,,,,,, thì cố mà trả nợ đi nha. 
 Love uuuuuuuuuuuuu
 _Ami_
-
 `,
   TYPE_SPEED_MS: 24,
   MUSIC_SRC: "./assets/1.mp3",
