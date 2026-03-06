@@ -64,6 +64,14 @@ Nghĩ đến việc phải chia tay chị, em thật sự rất buồn, nhưng e
 Chúc chị luôn may mắn, thành công, và dù có lúc khó khăn thì vẫn luôn mạnh mẽ, lạc quan và giữ nụ cười rạng rỡ như bây giờ. 
 Và chị đừng quên rằng phía sau chị luôn có chúng em – những người đồng nghiệp, người em – luôn sẵn sàng ở bên và giúp đỡ chị khi cần.
 _Em Minh_
+
+Gửi Nhung thân mến,
+
+Chị đã nghĩ và tự nhủ rất nhiều lần, là Trái đất có hơn 8 tỷ người nhưng chúng ta lại được gặp nhau, trở thành đồng nghiệp và bạn bè của nhau, được đồng hành cùng nhau lúc vui, lúc buồn, lúc cãi vã, căng thẳng... cùng vượt qua khó khăn, thử thách mỗi ngày, ấy thực sự là may mắn của chị. 
+Mặc dù chia tay nhau, nhưng Nhung hãy luôn yên tâm rằng bọn chị luôn tin tưởng và ủng hộ mọi quyết định của Nhung, you'r happy i'm happy too. 
+Hẹn sớm gặp lại!
+
+Chị Yến 💛 Nhung
 `,
   TYPE_SPEED_MS: 24,
   MUSIC_SRC: "./assets/1.mp3",
