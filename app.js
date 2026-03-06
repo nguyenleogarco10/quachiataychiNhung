@@ -72,9 +72,10 @@ _Em Quyên_
 
 Gửi Nhung thân mến,
 
+Gặp nhau rồi thật khó lìa xa, bao tâm sự còn đang dang dở...
+
 Chị đã nghĩ và tự nhủ rất nhiều lần, là Trái đất có hơn 8 tỷ người nhưng chúng ta lại được gặp nhau, trở thành đồng nghiệp và bạn bè của nhau, được đồng hành cùng nhau lúc vui, lúc buồn, lúc cãi vã, căng thẳng... cùng vượt qua khó khăn, thử thách mỗi ngày, ấy thực sự là may mắn của chị. 
-Mặc dù chia tay nhau, nhưng Nhung hãy luôn yên tâm rằng bọn chị luôn tin tưởng và ủng hộ mọi quyết định của Nhung, you'r happy i'm happy too. 
-Hẹn sớm gặp lại!
+Mặc dù chia tay nhau, nhưng Nhung hãy luôn yên tâm rằng bọn chị luôn tin tưởng và ủng hộ mọi quyết định của Nhung, you'r happy i'm happy too. Hẹn sớm gặp lại!
 
 _Chị Yến 💛 Nhung_
 `,
