@@ -38,6 +38,10 @@ _Ami_
 
 Dù xa nhau nhưng những kỷ niệm đẹp sẽ luôn ở lại. Chúc em mọi điều suôn sẻ!
 _Chị Nghĩa_
+
+Thời gian làm việc cùng nhau tuy không quá dài, nhưng với em đó là một khoảng thời gian rất đáng quý. 
+Chúc chị Nhung thật nhiều bình an và may mắn trên chặng đường mới /-heart
+_Em Thảo_
 `,
   TYPE_SPEED_MS: 24,
   MUSIC_SRC: "./assets/1.mp3",
